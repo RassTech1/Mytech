@@ -1,0 +1,2 @@
+# Mytech
+Welcome to code
